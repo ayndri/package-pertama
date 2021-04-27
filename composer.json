@@ -1,0 +1,19 @@
+{
+    "name": "simpexi/greetr",
+    "description": "Greetr - My simple package (first package)",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yunda",
+            "email": "dewinurayundari.dna@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Simplexi\\Greetr\\": "src/"
+        }
+    },
+    "require": {}
+}
